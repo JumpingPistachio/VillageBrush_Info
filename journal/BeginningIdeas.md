@@ -1,0 +1,13 @@
+# Beginning Ideas
+- 2D or 3D
+	- Pros
+    	- 3D is easier to work with at angles
+    	- 3D allows for a more real feel
+    	- 2D is easier to make
+    - Cons
+		- 3D is more difficult to make
+		- Importing 3D is a bit more confusing
+		- 2D becomes difficult to use at angles, angling / rotating stuff is important for a city builder
+		- 2D is a little less straightforward
+	- Conclusion
+		- I think I should use 3D, because it can be rotated, because a city builder feels liek it should be 3D, and because I want to learn Blender 3D.
